@@ -12,7 +12,7 @@ import TextError from "./TextError";
 
 const initialValues = {
   name: "Humayun",
-  email: "",
+  email: "humayunhabib786@gmail.com",
   channel: "",
   comments: "",
   address: "",
@@ -26,10 +26,10 @@ const initialValues = {
 
 const savedValues = {
   name: "Humayun",
-  email: "h@example.com",
-  channel: "codevolution",
+  email: "humayunhabib786@gmail.com",
+  channel: "TechCrackers",
   comments: "Welcome to Formik",
-  address: "221B Baker Street",
+  address: "Johar Town",
   social: {
     facebook: "",
     twitter: "",
